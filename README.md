@@ -35,23 +35,6 @@ Oh My Zsh is installed by running one of the following commands in your terminal
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/nrjais/oh-my-zsh/master/tools/install.sh)"
 ```
 
-#### With powerlevel9k theme and some plugins
-```shell
-sh -c "$(curl -fsSL https://raw.githubusercontent.com/nrjais/oh-my-zsh/develop/tools/install.sh)"
-```
-
-#### via wget
-
-```shell
-sh -c "$(wget https://raw.githubusercontent.com/nrjais/oh-my-zsh/master/tools/install.sh -O -)"
-```
-
-#### With powerlevel9k theme and some plugins
-```shell
-sh -c "$(wget https://raw.githubusercontent.com/nrjais/oh-my-zsh/develop/tools/install.sh -O -)"
-```
-
-
 ## Using Oh My Zsh
 
 ### Plugins
